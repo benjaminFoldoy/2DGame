@@ -1,7 +1,8 @@
 # 2DGame
 
-##Description
 A 2D top down adventure game
+ *[Dependencies](#Dependencies)
+ *[Plot](#Plot)
 
 ##Dependencies
 The framework used is calles Monogame and is written in C#.

@@ -4,14 +4,14 @@ A 2D top down adventure game
  *[Dependencies](#Dependencies)
  *[Plot](#Plot)
 
-##Dependencies
+## Dependencies
 The framework used is calles Monogame and is written in C#.
 Dependencies include:
   *Nez
   *Monocle
   *Monogame.Extended
  
- ##Plot
+ ## Plot
  You start in one of four isolated villages, where each of the four villages is on a different part of a big island. 
  This island is devided into four:
   *Sandy desert

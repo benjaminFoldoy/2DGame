@@ -11,7 +11,7 @@ Dependencies include:
   * Monocle
   * Monogame.Extended
 
-## What needs to happen logisticly
+## What needs to happen logistically
 ### UI
 - [ ] Create basic plan for how UI is handled
 

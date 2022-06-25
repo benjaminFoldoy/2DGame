@@ -13,11 +13,11 @@ Dependencies include:
 
 ## What needs to happen logisticly
 ### UI
- [ ] Create basic plan for how UI is handled
+- [ ] Create basic plan for how UI is handled
 
 ### Game mechanics
- [ ] Create system for movement
- [ ] Create camera to track player
+ -[ ] Create system for movement
+ -[ ] Create camera to track player
  
 ## Plot
  You start in one of four isolated villages, where each of the four villages is on a different part of a big island. 

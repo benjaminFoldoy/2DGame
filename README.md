@@ -7,7 +7,7 @@ A 2D top down adventure game
 ## Dependencies
 The framework used is calles Monogame and is written in C#.
 Dependencies include:
-  * [Nez](https://github.com/prime31/Nez){:target="\_blank"}
+  * [Nez](https://github.com/prime31/Nez)
   * Monocle
   * Monogame.Extended
 

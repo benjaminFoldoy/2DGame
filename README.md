@@ -13,7 +13,7 @@ Dependencies include:
 
 ## What needs to happen logistically
 ### UI
-- [x] Create basic plan for how UI is handled
+- [ ] Create basic plan for how UI is handled
 
 ### Game mechanics
 - [ ] Create system for movement
